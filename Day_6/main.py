@@ -12,6 +12,10 @@ def func(string):
 b = 123
 c = "Abir Sarkar"
 
-print(b + b)
+# print(b + b)
 
-print(type(a), type(b), type(c))
+# print(type(a), type(b), type(c))
+
+
+list1 = [8, 8.2, [-4, 5], ["Banana", "Apple"]]
+print(list1)
